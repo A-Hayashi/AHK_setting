@@ -54,7 +54,7 @@ vk1D & l::Send, {Blind}{Right}
 vk1D & u::Send, {Blind}{PgUp}
 
 ; 無変換+o = PgDn
-vk1D & o::Send, {Blind}{PgUp}
+vk1D & o::Send, {Blind}{PgDn}
 
 ; 無変換+Space = Enter
 vk1D & Space::Send, {Blind}{Enter}
