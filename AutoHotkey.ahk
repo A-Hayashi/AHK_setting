@@ -70,3 +70,4 @@ vk1C::Send, {vkF3}
 
 ; カナかな = Esc
 vkF2::Send, {Esc}
+
